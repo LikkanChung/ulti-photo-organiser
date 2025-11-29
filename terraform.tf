@@ -3,7 +3,7 @@ terraform {
     organization = "lkcultimate"
 
     workspaces {
-      name = "ulti-photo-organiser"
+      name = "lkc-ulti-photo-organiser"
     }
   }
 }
